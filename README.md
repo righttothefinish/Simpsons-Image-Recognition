@@ -1,5 +1,5 @@
 # Simpsons-Image-Recognition
-Machine Learning project classifying images of simpsons characters. Includes a report
+Machine Learning project classifying images of Simpsons characters. Includes a report
 
 Here is the link to the dataset I used:
 
